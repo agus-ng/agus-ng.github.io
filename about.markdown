@@ -12,9 +12,10 @@ Actualmente me desempeño como analista socioeconómico en el Instituto Nacional
 
 En mi tiempo libre me gusta leer, salir a caminar y hacer ejercicio. 
 
-#You can find the source code for Jekyll at GitHub:
+<!-- #You can find the source code for Jekyll at GitHub:
 #[jekyll][jekyll-organization] /
 #[jekyll](https://github.com/jekyll/jekyll)
 
 
 #[jekyll-organization]: https://github.com/jekyll
+-->
