@@ -1,18 +1,20 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Tengo 30 años y me gusta analizar datos.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+De profesión soy ingeniero comercial (Universidad de Chile). También soy bachiller en ciencias sociales y humanidades (Universidad de Chile), e hice un diplomado en ciencia de datos (Universidad del Desarrollo).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Actualmente me desempeño como analista socioeconómico en el Instituto Nacional de Estadísticas.
+
+En mi tiempo libre me gusta leer, salir a caminar y hacer ejercicio. 
+
+#You can find the source code for Jekyll at GitHub:
+#[jekyll][jekyll-organization] /
+#[jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+#[jekyll-organization]: https://github.com/jekyll
