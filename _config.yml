@@ -24,8 +24,8 @@ email: agustinng@proton.me
 description: Blog personal de proyectos propios en ciencia de datos y otros cachivaches :) 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-github_username:  agus-ng
+#twitter_username: test
+github_username: agus-ng
 linkedin_username: agustin-gutierrez-alvarez
 
 # Build settings

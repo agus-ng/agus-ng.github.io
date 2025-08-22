@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Empleo y actividades economicas"
+title:  "Empleo y actividades económicas"
 date:   2025-08-17 15:00:00 -0400
 categories: jekyll update
 ---
